@@ -4,7 +4,7 @@ A customizable and playable synthesizer application with a graphical user interf
 
 <!-- <img src="./images/mini-synth-gui.png" alt="" width="500"/> -->
 
-![](./images/mini-synth-gui.png)
+![](./images/mini-synth-gui.PNG)
 
 ## Features
 
