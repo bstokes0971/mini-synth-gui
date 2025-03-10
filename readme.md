@@ -2,7 +2,7 @@
 
 A customizable and playable synthesizer application with a graphical user interface built in Python.
 
-<img src="images/mini-synth-gui.png" alt="" width="500"/>
+<img src="./images/mini-synth-gui.png" alt="" width="500"/>
 
 <!-- ![](images/mini-synth-gui.png) -->
 
